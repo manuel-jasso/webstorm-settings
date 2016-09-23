@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;xxx_node_modules;" />
+    <extensionMap>
+      <mapping ext="dust" type="Dust" />
+      <mapping ext="java" type="Java files" />
+      <mapping ext="properties" type="Property files" />
+    </extensionMap>
+  </component>
+</application>

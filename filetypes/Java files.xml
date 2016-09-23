@@ -13,7 +13,4 @@
     </options>
     <keywords keywords="abstract;assert" ignore_case="false" />
   </highlighting>
-  <extensionMap>
-    <mapping ext="java" />
-  </extensionMap>
 </filetype>

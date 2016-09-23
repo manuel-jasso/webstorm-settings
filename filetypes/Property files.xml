@@ -11,7 +11,4 @@
     <keywords ignore_case="false" />
     <keywords4 keywords="=" />
   </highlighting>
-  <extensionMap>
-    <mapping ext="properties" />
-  </extensionMap>
 </filetype>

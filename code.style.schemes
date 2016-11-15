@@ -7,6 +7,9 @@
           <option name="SMART_EDIT_TABLES" value="true" />
           <option name="RIGHT_MARGIN" value="120" />
         </MarkdownNavigatorCodeStyleSettings>
+        <editorconfig>
+          <option name="ENABLED" value="false" />
+        </editorconfig>
       </value>
     </option>
     <option name="USE_PER_PROJECT_SETTINGS" value="true" />

@@ -1,12 +1,15 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '.../ui-pkg/spa/modules/global-registry/scripts/global-registry.js - [app-common]'" />
     <option name="defaultScopeName" value="File '.../ui-pkg/spa/modules/global-registry/scripts/global-registry.js - [app-common]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../ui-pkg/spa/modules/global-registry/scripts/global-registry.js - [app-common]'" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*.as</mask>
@@ -35,9 +38,9 @@
       <mask>*.scss</mask>
       <mask>*.dist</mask>
       <mask>*.properties</mask>
-      <mask>*.js</mask>
       <mask>*.scss,*.less,*.css</mask>
       <mask>*.dust</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="Open with Atom" description="Open file with Atom" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Open with Atom" description="Open file with Atom" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/Applications/Atom.app" />
       <option name="PARAMETERS" value="$FilePathRelativeToProjectRoot$" />

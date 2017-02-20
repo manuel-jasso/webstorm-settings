@@ -2,14 +2,12 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;xxx_node_modules;" />
     <extensionMap>
-      <removed_mapping ext="asp" type="ASP" />
+      <mapping ext="asa" type="ASP" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="dust" type="Dust" />
       <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping pattern="asp" type="textmate" />
       <mapping pattern="asa" type="textmate" />
-      <mapping ext="asa" type="textmate" />
-      <mapping ext="asp" type="textmate" />
+      <mapping pattern="asp" type="textmate" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="java" type="Java files" />
       <mapping ext="pkb" type="DBN-PSQL" />

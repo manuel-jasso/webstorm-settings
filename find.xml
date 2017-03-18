@@ -9,7 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../Polyfill2.js - [temp]'" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.dust" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -38,9 +38,9 @@
       <mask>*.dist</mask>
       <mask>*.properties</mask>
       <mask>*.scss,*.less,*.css</mask>
-      <mask>*.dust</mask>
       <mask>*.asp</mask>
       <mask>*.js</mask>
+      <mask>*.dust</mask>
     </recentFileMasks>
   </component>
 </application>

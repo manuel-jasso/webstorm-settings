@@ -10,14 +10,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*_view.js</mask>
-      <mask>node_module*.*</mask>
-      <mask>node_modules</mask>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
-      <mask>gruntfile.js</mask>
       <mask>*.java, *.jsp</mask>
       <mask>*.json</mask>
       <mask>*.css</mask>
@@ -38,8 +30,16 @@
       <mask>*.properties</mask>
       <mask>*.scss,*.less,*.css</mask>
       <mask>*.asp</mask>
-      <mask>*.js</mask>
       <mask>*.dust</mask>
+      <mask>*.dus</mask>
+      <mask>*.du</mask>
+      <mask>*.d</mask>
+      <mask>m</mask>
+      <mask>h</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>

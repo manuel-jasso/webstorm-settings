@@ -3,7 +3,7 @@
     <option name="INDENT_CHAINED_CALLS" value="false" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
-    <option name="TOC_HEADING_LEVELS" value="28" />
+    <option name="TOC_HEADING_LEVELS" value="60" />
     <option name="RIGHT_MARGIN" value="120" />
   </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="JSON">

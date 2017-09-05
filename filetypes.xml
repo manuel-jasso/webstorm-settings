@@ -5,9 +5,10 @@
       <mapping ext="asa" type="ASP" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="dust" type="Dust" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping pattern="asa" type="textmate" />
       <mapping pattern="asp" type="textmate" />
+      <mapping pattern="asa" type="textmate" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="java" type="Java files" />
       <mapping ext="pkb" type="DBN-PSQL" />

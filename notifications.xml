@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Markdown Navigator Alerts" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Markdown Navigator HTML Export" shouldLog="false" />
     <notification groupId="Markdown Navigator License" displayType="STICKY_BALLOON" shouldLog="false" />

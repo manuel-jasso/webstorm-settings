@@ -3,20 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js,*.dust" />
     <recentFileMasks>
-      <mask>*grunt*/*.js</mask>
-      <mask>!*.properties</mask>
-      <mask>*.scss,*.less</mask>
-      <mask>Gruntfile.js</mask>
-      <mask>*.scss</mask>
-      <mask>*.dist</mask>
-      <mask>*.scss,*.less,*.css</mask>
-      <mask>*.dust</mask>
-      <mask>*.dus</mask>
-      <mask>*.du</mask>
-      <mask>*.d</mask>
       <mask>m</mask>
       <mask>h</mask>
       <mask>*.j</mask>
@@ -25,17 +17,28 @@
       <mask>*.asp</mask>
       <mask>*.as</mask>
       <mask>*.a</mask>
-      <mask>*.js</mask>
+      <mask>*.properties,</mask>
+      <mask>*.properties</mask>
+      <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properti</mask>
+      <mask>*.propert</mask>
+      <mask>*.proper</mask>
+      <mask>*.prope</mask>
+      <mask>*.prop</mask>
+      <mask>*.pro</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.pro</mask>
-      <mask>*.prope</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.propertie</mask>
-      <mask>*.properties</mask>
-      <mask>*.properties</mask>
+      <mask>*.js</mask>
+      <mask>*.js,</mask>
+      <mask>*.js,*</mask>
+      <mask>*.js,*.</mask>
+      <mask>*.js,*.d</mask>
+      <mask>*.js,*.du</mask>
+      <mask>*.js,*.dus</mask>
+      <mask>*.js,*.dust</mask>
     </recentFileMasks>
   </component>
 </application>

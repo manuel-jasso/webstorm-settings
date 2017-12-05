@@ -3,8 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
@@ -17,19 +15,12 @@
       <mask>*.as</mask>
       <mask>*.a</mask>
       <mask>*.properties,</mask>
-      <mask>*.properties</mask>
-      <mask>*.properties</mask>
       <mask>*.propertie</mask>
       <mask>*.properti</mask>
       <mask>*.propert</mask>
       <mask>*.proper</mask>
       <mask>*.prope</mask>
       <mask>*.prop</mask>
-      <mask>*.pro</mask>
-      <mask>*.pr</mask>
-      <mask>*.p</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.js,</mask>
       <mask>*.js,*</mask>
@@ -38,6 +29,13 @@
       <mask>*.js,*.du</mask>
       <mask>*.js,*.dus</mask>
       <mask>*.js,*.dust</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.properties</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
